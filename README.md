@@ -2,16 +2,19 @@
 
 # 🚀 Pitam's Digital Universe
 
-```ascii
-╔════════════════════════════════════════════════╗
-║   PITAM ADAK • Code • Create • Solve • Repeat  ║
-╚════════════════════════════════════════════════╝
-```
+</div>
 
+<div align="center">
+<code>╔══════════════════════════════════════╗</code><br/>
+<code>║  PITAM ADAK • Code • Create • Solve  ║</code><br/>
+<code>╚══════════════════════════════════════╝</code>
+</div>
+
+<div align="center">
+    
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=640&lines=Student+%7C+Tech+Enthusiast+%7C+Filmmaker;From+Storyboards+to+Source+Code;Cinematic+Thinking+%2B+Logical+Execution;Rubik's+Cube+Solver+%F0%9F%A7%A9;Let's+Build+Something+Awesome!" alt="Animated intro text" />
 
 </div>
-
 ---
 
 ## 🔎 TL;DR
@@ -39,7 +42,7 @@ class PitamAdak:
 
 | Languages | Core Concepts | Creative | Other |
 |-----------|---------------|----------|-------|
-| HTML | Problem Solving | Video Editing (Premiere) | Git/GitHub |
+| HTML | Problem Solving | Video Editing (Premiere Pro & DaVinci Resolve) | Git/GitHub |
 | CSS | Data Handling (SQL basics) | Filmmaking | Debugging |
 | Python | Algorithms (intro) | Story Craft | Collaboration |
 | C | CLI Apps | Visual Rhythm | Rapid Learning |
