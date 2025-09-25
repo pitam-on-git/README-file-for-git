@@ -62,7 +62,7 @@ class PitamAdak:
 
 ---
 
-## 🧭 2026 Roadmap
+## 🧭 2026 Roadmap & Goals
 - ✅ Solidify foundations 
 - 🚧 Start backend basics (Flask / FastAPI)
 - 🔜 Explore JavaScript for interactive UI
