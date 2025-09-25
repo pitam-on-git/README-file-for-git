@@ -60,11 +60,11 @@ class PitamAdak:
 
 ---
 
-## 🧭 2025 Roadmap
-- ✅ Solidify foundations (Python, C)
+## 🧭 2026 Roadmap
+- ✅ Solidify foundations 
 - 🚧 Start backend basics (Flask / FastAPI)
 - 🔜 Explore JavaScript for interactive UI
-- 🎥 Build a “Code x Film” micro‑series
+- 🧑‍🎓 Learn Diffrent Languages
 - 🧪 Experiment with small automation scripts
 
 ---
